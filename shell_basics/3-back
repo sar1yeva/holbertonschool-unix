@@ -1,4 +1,2 @@
 #!/bin/bash
-# Script to change to the previous working directory
-
 cd -
